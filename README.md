@@ -1,3 +1,4 @@
+
 # short-explanation.mil
 Semantical kernels is what we have had so far(logic kernels)
 the problem is that non'semantikal kernels have just started being understood with my own pf'kernel.
@@ -15,3 +16,8 @@ that aint true. at all.
 
 # я'atm' with all of these "pro pro pro."
 <img width="89" height="101" alt="image-removebg-preview (97)" src="https://github.com/user-attachments/assets/987a5663-608f-4fb5-8f78-9d2968e82226" />
+
+
+#### btw this is blackhat, not the thing in .com :/ 
+<img width="222" height="84" alt="blackhat drawio" src="https://github.com/user-attachments/assets/38c286e2-aa11-49a7-af07-6205146b24cb" />
+
