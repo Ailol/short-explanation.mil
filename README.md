@@ -1,3 +1,15 @@
+# solution
+bias models for ki' layer.
+sets the privacy layer to unbreakable by even quantum standards 🙃
+by the sheer amount of private keyz and quantum principles in motion: no amiunt of google super dataamchined wilm
+be able to break even a router security as eavh cpu evolz with crypto blockz and algoeithms etc 😊💟
+
+done! 
+
+
+
+
+
 
 # short-explanation.mil
 Semantical kernels is what we have had so far(logic kernels)
